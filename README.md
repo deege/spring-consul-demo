@@ -1,4 +1,4 @@
-# spring-consul-demo
+# Spring / Consul demonstration
 Demonstrates running Consul with Spring
 
 This is a short demo to set up Consul as a configuration source for a Spring app. The main feature tested in this demo was the ability to 
